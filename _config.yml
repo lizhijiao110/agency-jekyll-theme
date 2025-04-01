@@ -13,12 +13,12 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
+url    : "https://lizhijiao110.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
+title      : XIAMEN CIF STONE CO.,LTD.
+email      : RYANZHENG177@GMAIL.com #this is also the email contact forms will go to
+description: "Your most reliable Chinese marble stone supplier"
 author     : Your Name
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
