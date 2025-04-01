@@ -1,4 +1,7 @@
+#after any changes to the Gemfile, execute bundle update!
 source "https://rubygems.org"
-gem "jekyll", "~> 4.3"
-gem "minima", "~> 2.5"
-gem "jekyll-feed", "~> 0.17"
+gemspec
+
+# Delete the following lines if not on Windows: 
+# Performance-booster for watching directories on Windows
+gem "wdm", ">= 0.1.0" if Gem.win_platform?
